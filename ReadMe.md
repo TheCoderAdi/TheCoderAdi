@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  MERN & RN<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning DevOps<br>💬 Ask me about What you want to know<br>😄 Pronouns  He/Him/Mr.<br>
+🔭 I’m currently working on  MERN & RN<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Cloud<br>💬 Ask me about What you want to know<br>😄 Pronouns  He/Him/Mr.<br>
 
 
 ## 🌐 Socials:
